@@ -1,0 +1,76 @@
+{
+  "news": [
+    {
+      "number": "01",
+      "title": "Nuevo Descubrimiento en Tecnología Cuántica",
+      "image": "https://cdn.pixabay.com/photo/2024/06/18/13/21/hands-8838044_1280.jpg",
+      "text": "Un equipo de científicos ha logrado un avance crucial en la computación cuántica, acercando a la humanidad a un futuro lleno de posibilidades tecnológicas."
+    },
+    {
+      "number": "02",
+      "title": "Crisis del Agua en Regiones Áridas",
+      "image": "https://cdn.pixabay.com/photo/2016/03/21/13/38/traditional-and-technology-1270519_1280.jpg",
+      "text": "La escasez de agua en regiones áridas se está intensificando debido al cambio climático y al mal uso de los recursos hídricos, afectando a millones de personas."
+    },
+    {
+      "number": "03",
+      "title": "La Inteligencia Artificial en la Medicina",
+      "image": "https://cdn.pixabay.com/photo/2022/12/28/08/33/generated-7682412_1280.jpg",
+      "text": "La inteligencia artificial está comenzando a transformar la medicina moderna, desde diagnósticos más precisos hasta tratamientos personalizados."
+    },
+    {
+      "number": "04",
+      "title": "Innovación en Energías Renovables: Solar y Eólica",
+      "image": "https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg",
+      "text": "Las energías renovables como la solar y la eólica han avanzado significativamente, ofreciendo una alternativa sostenible frente a los combustibles fósiles."
+    },
+    {
+      "number": "05",
+      "title": "Exploración Espacial: La Nueva Carrera Hacia Marte",
+      "image": "https://images.unsplash.com/photo-1533616688419-b7a585564566",
+      "text": "Los avances en la tecnología espacial están llevando a nuevas misiones hacia Marte, con la esperanza de una futura colonización del planeta rojo."
+    },
+    {
+      "number": "06",
+      "title": "Educación a Distancia: El Futuro de la Enseñanza",
+      "image": "https://cdn.pixabay.com/photo/2022/10/13/15/47/generated-7519392_1280.jpg",
+      "text": "La pandemia ha acelerado la adopción de la educación a distancia, y expertos afirman que podría convertirse en el método principal de enseñanza en el futuro."
+    },
+    {
+      "number": "07",
+      "title": "Cambio Climático: Efectos Irreversibles en los Océanos",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "text": "El cambio climático está afectando gravemente los océanos, causando la acidificación del agua y poniendo en peligro la biodiversidad marina."
+    },
+    {
+      "number": "08",
+      "title": "Tecnología 5G: Revolución en la Conectividad Global",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+      "text": "La implementación de la red 5G está revolucionando la forma en que nos conectamos, con velocidades ultrarrápidas y una latencia mínima que impulsan la innovación."
+    },
+    {
+      "number": "09",
+      "title": "La Economía Circular: Una Oportunidad para Reducir Residuos",
+      "image": "https://cdn.pixabay.com/photo/2016/02/09/14/15/map-1189403_1280.jpg",
+      "text": "El concepto de economía circular está ganando tracción en todo el mundo, ayudando a reducir el desperdicio y a promover el reciclaje y la reutilización de materiales."
+    },
+    {
+      "number": "10",
+      "title": "Salud Mental en la Era Digital",
+      "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528",
+      "text": "El aumento en el uso de redes sociales y la tecnología ha tenido efectos negativos en la salud mental, especialmente entre los jóvenes."
+    },
+    {
+      "number": "11",
+      "title": "Robótica Avanzada: Una Nueva Era de Automatización",
+      "image": "https://cdn.pixabay.com/photo/2022/12/17/08/53/generated-7661303_1280.jpg",
+      "text": "La robótica avanzada está transformando industrias desde la manufactura hasta la atención médica, aumentando la eficiencia y precisión en diversas áreas."
+    },
+    {
+      "number": "12",
+      "title": "Avances en Biotecnología: Nuevas Terapias Genéticas",
+      "image": "https://cdn.pixabay.com/photo/2015/12/07/14/18/drone-1080844_1280.jpg",
+      "text": "La biotecnología ha permitido el desarrollo de nuevas terapias genéticas, con el potencial de curar enfermedades hereditarias y mejorar la calidad de vida."
+    }
+  ]
+}
